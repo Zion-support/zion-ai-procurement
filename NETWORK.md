@@ -1,10 +1,17 @@
-# Zion AI Procurement
+# Zion AI Procurement — Zion App Network
 
-Vendor evaluation, spend analysis and RFP drafting.
+Zion AI Procurement — vendor evaluation, spend analysis and RFP drafting. Part of the [Zion Tech Group](https://ziontechgroup.com) app network.
 
-## Network
-- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
-- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
-- Related: [zion-ai-rfp-builder](https://github.com/Zion-support/zion-ai-rfp-builder) · [zion-ai-vendor-risk](https://github.com/Zion-support/zion-ai-vendor-risk) · [ai-vendor-comparator](https://github.com/Zion-support/ai-vendor-comparator) · [vendor-matrix-compare](https://github.com/Zion-support/vendor-matrix-compare) · [zion-ai-supply-chain](https://github.com/Zion-support/zion-ai-supply-chain)
+- 🔗 Live app: [https://ziontechgroup.com/zion-ai-procurement/](https://ziontechgroup.com/zion-ai-procurement/)
+- 🏠 Category: [Business Tools & Calculators](https://github.com/Zion-support/zion-network/blob/main/network/business-tools-calculators.md)
 
-*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
+## Related apps in the network
+
+- [Zion AI Vendor Risk](https://github.com/Zion-support/zion-ai-vendor-risk) — third-party risk assessments
+- [Vendor Matrix Compare](https://github.com/Zion-support/vendor-matrix-compare) — side-by-side vendor comparison
+- [Zion AI Vendor Benchmark Exchange](https://github.com/Zion-support/zion-ai-vendor-benchmark-exchange) — anonymized peer pricing benchmarks
+- [Zion AI Contract Guardian](https://github.com/Zion-support/zion-ai-contract-guardian) — SLA verification and renewal alerts
+- [Zion AI Quote Builder](https://github.com/Zion-support/zion-ai-quote-builder) — instant quotes and proposals
+
+## Part of the Zion App Network
+🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
